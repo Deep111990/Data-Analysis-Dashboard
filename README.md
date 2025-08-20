@@ -38,3 +38,21 @@ The **Customer Center Report Dashboard** is designed to answer the following key
 - What is the revenue contribution of each representative?
 - What is each representative’s ranking in terms of call volume and revenue?
 
+## 📊 Key Insights
+- A total of **1,000 calls** were handled, generating approximately **$96,623** in revenue.  
+- The **average customer rating** stands at **3.9**, with **307 happy callers** recorded.  
+- **Call volume fluctuates monthly**, with noticeable peaks in March and October.  
+- **Saturday and Sunday** receive the highest call volumes, while **Tuesday** has the lowest.  
+- **Gender analysis** shows Cleveland has the highest number of male callers, while Cincinnati has a balanced male-to-female ratio.  
+- **Representative R02 and R03** generated the highest revenue contributions (~$20,500 each).  
+- Call ratings are skewed towards the higher end, with the majority of calls rated **4 or 5**.
+
+## 🛠️ Tools & Techniques
+- **Microsoft Excel** – Data preprocessing, cleaning, pivot tables, and dashboard creation  
+- **Pivot Tables & Charts** – For summarizing and visualizing insights  
+- **Conditional Formatting** – To highlight KPIs and trends  
+- **Data Visualization** – To build an interactive and user-friendly dashboard
+
+## ✅ Conclusion
+This project demonstrates how raw data can be transformed into actionable insights using Excel. The dashboard highlights key performance metrics of a call centre, enabling management to monitor efficiency, improve customer satisfaction, and optimize representative performance.  
+
