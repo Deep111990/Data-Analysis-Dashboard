@@ -53,6 +53,9 @@ The **Customer Center Report Dashboard** is designed to answer the following key
 - **Conditional Formatting** – To highlight KPIs and trends  
 - **Data Visualization** – To build an interactive and user-friendly dashboard
 
+# Dashboard Image
+![Accenture Report](https://github.com/user-attachments/assets/b8174367-bee7-48f8-bf56-376a2f2f6d48)
+
 ## ✅ Conclusion
 This project demonstrates how raw data can be transformed into actionable insights using Excel. The dashboard highlights key performance metrics of a call centre, enabling management to monitor efficiency, improve customer satisfaction, and optimize representative performance.  
 
