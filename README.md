@@ -4,6 +4,7 @@ End-to-End Excel Project: Data Cleaning, Analysis & Visualization(Accenture Call
 This project aims to analyze raw customer and sales data using Excel. By applying data cleaning, preprocessing, and visualization techniques, the project delivers an interactive dashboard and pivot tables to highlight key business insights and customer trends.
 # Dataset Used
 - <a href="https://github.com/Deep111990/Data-Analysis-Dashboard/blob/main/Data-Excel-Portfolio-Project.xlsx">Dataset</a>
+
 **Project Structure**
 - **Data Sheet** – Contains the raw transactional call centre data.  
 - **Pivot Tables** – Summarized datasets used for analysis.  
